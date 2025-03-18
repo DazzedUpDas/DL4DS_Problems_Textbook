@@ -1,5 +1,5 @@
-# DL4DS_Problems_Textbook
-Consists of all the solved notebooks in the textbook titled Understanding Deep Learning
+# Understanding_Deep_Learning_Solved_Notebooks
+Consists of all the solved notebooks in the textbook titled Understanding Deep Learning. Mark Gotham's notebooks are the ones with the problems. 
 
 <p align="center"><img src="UDL.jpg" alt="Understanding Deep Learning" width="300" height="300"></p>
 
@@ -9,7 +9,7 @@ Find the problems in the Notebooks Folder. It has been divided Chapter wise. Wil
 
 P.S. Some Notebooks like Notebook 3.3 have not been included because they are very trivial
 
-# Current List
+# Table of Contents
 
 | Chapter |Title| Notebooks|
 | ---------|----- | ---------------- |
