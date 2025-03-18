@@ -1,4 +1,4 @@
-# Understanding_Deep_Learning_Solved_Notebooks
+# Understanding Deep Learning ChapterWise Solved_Notebooks
 Consists of all the solved notebooks in the textbook titled Understanding Deep Learning. Mark Gotham's notebooks are the ones with the problems. 
 
 <p align="center"><img src="UDL.jpg" alt="Understanding Deep Learning" width="300" height="300"></p>
