@@ -14,4 +14,5 @@ P.S. Some Notebooks like Notebook 3.3 have not been included because they are ve
 | Chapter |Title| Notebooks|
 | ---------|----- | ---------------- |
 | Chapter 3 |Shallow Neural Networks|3.1, 3.2 ,3.4 |
-| Chapter 4 |Composing Networks|4.1 |
+| Chapter 4 |Composing Networks|4.1, 4.3 |
+| Chapter 5 | Loss Functions | 5.1, 5.2 |
