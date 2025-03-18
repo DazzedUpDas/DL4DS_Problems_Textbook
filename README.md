@@ -7,6 +7,8 @@ The Problems start from Notebook 3.1 in the UDL TextBook
 
 Find the problems in the Notebooks Folder. It has been divided Chapter wise. Will keep updating the problems with solutions.
 
+P.S. Some Notebooks like Notebook 3.3 have not been included because they are very trivial
+
 # Current List
 
 | Chapter |Title| Notebooks|
