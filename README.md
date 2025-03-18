@@ -1,8 +1,15 @@
 # DL4DS_Problems_Textbook
 Consists of all the solved notebooks in the textbook titled Understanding Deep Learning
 
-<img src="UDL.jpg" alt="Understanding Deep Learning">
+<p align="center"><img src="UDL.jpg" alt="Understanding Deep Learning" width="300" height="300"></p>
 
 The Problems start from Notebook 3.1 in the UDL TextBook
 
 Find the problems in the Notebooks Folder. It has been divided Chapter wise. Will keep updating the problems with solutions
+
+# Current List
+
+| Chapter |Title| Notebooks|
+| ---------|----- | ---------------- |
+| Chapter 3 |Shallow Neural Networks|3.1, 3.2 |
+| Chapter 4 |Composing Networks|4.1 |
