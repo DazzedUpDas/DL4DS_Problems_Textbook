@@ -11,5 +11,5 @@ Find the problems in the Notebooks Folder. It has been divided Chapter wise. Wil
 
 | Chapter |Title| Notebooks|
 | ---------|----- | ---------------- |
-| Chapter 3 |Shallow Neural Networks|3.1, 3.2 |
+| Chapter 3 |Shallow Neural Networks|3.1, 3.2 ,3.4 |
 | Chapter 4 |Composing Networks|4.1 |
