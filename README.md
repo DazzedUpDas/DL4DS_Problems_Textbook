@@ -1,15 +1,17 @@
-# Understanding Deep Learning ChapterWise Solved_Notebooks
-Consists of all the solved notebooks in the textbook titled Understanding Deep Learning. Mark Gotham's notebooks are the ones with the problems. 
+# Understanding Deep Learning ChapterWise Solved Notebooks
+## Introduction
+This repository contains all the solved notebooks from the textbook Understanding Deep Learning. The original problem notebooks, authored by Mark Gotham, did not have solutions in it. The solutions to those problems are available in the Notebooks folder, categorized by chapter.
 
 <p align="center"><img src="UDL.jpg" alt="Understanding Deep Learning" width="300" height="300"></p>
 
-The Problems start from Notebook 3.1 in the UDL TextBook
+The problems begin from Notebook 3.1 in the UDL textbook. Some trivial notebooks, such as Notebook 3.3, have been excluded for brevity.
+This collection will be continuously updated with solutions to more problems.
 
-Find the problems in the Notebooks Folder. It has been divided Chapter wise. Will keep updating the problems with solutions.
+## Structure
+Find the problems in the Notebooks folder, organized by chapter.
+Each solved notebook follows the original problem structure while providing clear explanations and implementations.
 
-P.S. Some Notebooks like Notebook 3.3 have not been included because they are very trivial
-
-# Table of Contents
+## Table of Contents
 
 | Chapter |Title| Notebooks|
 | ---------|----- | ---------------- |
