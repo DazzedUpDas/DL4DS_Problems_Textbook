@@ -1,5 +1,5 @@
 # DL4DS_Problems_Textbook
-Consists of all the notebooks solved in the DL4DS textbook titled Understanding Deep Learning
+Consists of all the solved notebooks in the textbook titled Understanding Deep Learning
 
 <img src="UDL.jpg" alt="Understanding Deep Learning">
 
