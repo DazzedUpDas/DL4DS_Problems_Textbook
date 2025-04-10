@@ -17,4 +17,5 @@ Each solved notebook follows the original problem structure while providing clea
 | ---------|----- | ---------------- |
 | Chapter 3 |Shallow Neural Networks|3.1, 3.2 ,3.4 |
 | Chapter 4 |Composing Networks|4.1, 4.3 |
-| Chapter 5 | Loss Functions | 5.1, 5.2 |
+| Chapter 5 | Loss Functions | 5.1, 5.2,5.3 |
+| Chapter 6 | Fitting Models | |
